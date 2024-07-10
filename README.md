@@ -5,4 +5,4 @@
 ### **_Cómo detectar clicks en un botón utilizando Javascript:_**
 
 - **_Aprende a detectar varios clicks con el método ```addEventListener('click')```._**
-- ¿Existe alguna manera de saber cuántas veces se ha hecho click con este botón?
+- _¿Existe alguna manera de saber cuántas veces se ha hecho click con este botón?_
