@@ -10,5 +10,5 @@
 - **_A partir de este mismo proyecto, podemos generar un contador por clicks, para contabilizar la cantidad de clicks que hemos hecho con este botón._**
 - **_Si queremos desarrollar un método que sea capaz de detectar clicks en una parte de mi aplicación, entonces podemos utilizar la sentencia addEventListener, de manera que vamos a controlar el evento de añadir clicks (en Javascript)._**
 - **_Existen muchos otros eventos que podemos controlar con ```addEventListener```, como por ejemplo, los eventos focus, scroll, keyup o keydown._**
-- _Esta es una aplicación práctica creada con Javascript donde vamos a manipular y controlar el DOM (Document Object Model), de manera que vamos a ser capaces de controlar los eventos que se produzcan en un elemento botón de nuestra aplicación._
-- _Este tipo de eventos ocurren en todas las páginas webs y el lenguaje de programación Javascript nos permite controlarlos de diferentes maneras._
+- **_Esta es una aplicación práctica creada con Javascript donde vamos a manipular y controlar el DOM (Document Object Model), de manera que vamos a ser capaces de controlar los eventos que se produzcan en un elemento botón de nuestra aplicación._**
+- **_Este tipo de eventos ocurren en todas las páginas webs y el lenguaje de programación Javascript nos permite controlarlos de diferentes maneras._**
