@@ -4,4 +4,4 @@
 
 ### **_Cómo detectar clicks en un botón utilizando Javascript:_**
 
-**_Aprende a detectar clicks con addEventListener('click')._**
+- **_Aprende a detectar clicks con addEventListener('click')._**
