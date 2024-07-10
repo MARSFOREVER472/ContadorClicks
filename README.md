@@ -1,4 +1,4 @@
-# ContadorClicks
+# _ContadorClicks_
 
 ## CÓMO CREAR UN CONTADOR POR NÚMERO DE CLICKS UTILIZANDO JAVASCRIPT!
 
