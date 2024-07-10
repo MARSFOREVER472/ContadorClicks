@@ -6,4 +6,4 @@
 
 - **_Aprende a detectar varios clicks con el método ```addEventListener('click')```._**
 - **_¿Existe alguna manera de saber cuántas veces se ha hecho click con este botón?_**
-- La aplicación que creamos en este vídeo es capaz de capturar los eventos de añadir click usando código Javascript.
+- La aplicación que creamos en este vídeo es capaz de capturar los eventos de añadir un click usando código Javascript.
