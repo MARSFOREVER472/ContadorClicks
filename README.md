@@ -6,6 +6,7 @@
 
 - **_Learn to detect multiple clicks with the ```addEventListener('click')``` event._**
 - **_Is there a way to know how many times this button has been clicked?_**
+- **_The application that we will create in this project is for the user to be able to capture the events of adding one or more clicks using Javascript code tools._**
 
 
 ## **_CÓMO CREAR UN CONTADOR POR NÚMERO DE CLICKS UTILIZANDO JAVASCRIPT!_**
