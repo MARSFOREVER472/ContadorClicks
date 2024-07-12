@@ -4,7 +4,7 @@
 
 ### **_How to detect clicks on a button using Javascript:_**
 
-Learn to detect multiple clicks with the addEventListener('click') event.
+- Learn to detect multiple clicks with the addEventListener('click') event.
 
 ## **_CÓMO CREAR UN CONTADOR POR NÚMERO DE CLICKS UTILIZANDO JAVASCRIPT!_**
 
