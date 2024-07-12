@@ -8,6 +8,7 @@
 - **_Is there a way to know how many times this button has been clicked?_**
 - **_The application that we will create in this project is for the user to be able to capture the events of adding one or more clicks using Javascript code tools._**
 - **_From this same project, we can generate a click counter, to count the number of clicks we have made with this button._**
+- **_If we want to develop a method that is capable of detecting clicks in a part of my application, then we can use the addEventListener statement, so that we will control the add clicks event (in Javascript)._**
 
 
 
