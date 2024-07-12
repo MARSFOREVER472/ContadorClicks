@@ -1,5 +1,7 @@
 # **_ContadorClicks_**
 
+HOW TO CREATE A COUNTER BY NUMBER OF CLICKS USING JAVASCRIPT!
+
 ## **_CÓMO CREAR UN CONTADOR POR NÚMERO DE CLICKS UTILIZANDO JAVASCRIPT!_**
 
 ### **_Cómo detectar clicks en un botón utilizando Javascript:_**
