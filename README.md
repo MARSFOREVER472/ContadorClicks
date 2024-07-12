@@ -10,7 +10,7 @@
 - **_From this same project, we can generate a click counter, to count the number of clicks we have made with this button._**
 - **_If we want to develop a method that is capable of detecting clicks in a part of my application, then we can use the addEventListener statement, so that we will control the add clicks event (in Javascript)._**
 - **_There are many other events that we can control with ```addEventListener```, such as the focus, scroll, keyup or keydown events._**
-
+- **_This is a practical application created with Javascript where we are going to manipulate and control the DOM (Document Object Model), so that we will be able to control the events that occur in a button element of our application._**
 
 ## **_CÓMO CREAR UN CONTADOR POR NÚMERO DE CLICKS UTILIZANDO JAVASCRIPT!_**
 
